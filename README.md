@@ -70,38 +70,35 @@ simple-website/
 ├── styles.css            # Stylesheet for consistent design across pages
 └── README.md             # Project documentation (this file)
 
-## Usage
-
+Features
+Home Page: Introduction and highlights.
+Resume: Comprehensive resume including personal details, education, skills, projects, and certifications.
+Bio-data: Detailed bio-data with hobbies, achievements, and language proficiencies.
+Navigation Bar: Links to easily switch between Home, Resume, and Bio-data pages.
+Usage
 The website has three main pages:
 
-1. **Home Page (`index.html`)** - This is the landing page that provides a brief overview and links to additional pages.
-2. **Resume (`resume.html`)** - Displays personal details, educational background, skills, projects, and certifications.
-3. **Bio-data (`biodata.html`)** - Contains more personal information, including hobbies, achievements, and language proficiencies.
-
+Home Page (index.html) - This is the landing page that provides a brief overview and links to additional pages.
+Resume (resume.html) - Displays personal details, educational background, skills, projects, and certifications.
+Bio-data (biodata.html) - Contains more personal information, including hobbies, achievements, and language proficiencies.
 To navigate, use the links in the navigation bar at the top of each page.
 
-## Customization
+Customization
+Modifying Content
+Resume: Update the content in resume.html to reflect actual personal details, education, skills, and certifications.
+Bio-data: Edit biodata.html to include personal hobbies, achievements, and other details.
+Changing Styles
+CSS Styling: Modify styles.css to change the color scheme, layout, and other visual aspects.
+Adding More Pages
+To add a new page, create a new .html file and add a link in the <nav> section in each page’s header.
 
-### Modifying Content
-- **Resume**: Update the content in `resume.html` to reflect actual personal details, education, skills, and certifications.
-- **Bio-data**: Edit `biodata.html` to include personal hobbies, achievements, and other details.
-
-### Changing Styles
-- **CSS Styling**: Modify `styles.css` to change the color scheme, layout, and other visual aspects.
-
-### Adding More Pages
-- To add a new page, create a new `.html` file and add a link in the `<nav>` section in each page’s header.
-
-## Contributing
-
+Contributing
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcomed.
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-## License
-
+Fork this repository.
+Create a branch: git checkout -b feature-name.
+Commit your changes: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-name.
+Open a pull request.
+License
 This project is open-source and available under the MIT License. Feel free to use and modify it for your own projects!
