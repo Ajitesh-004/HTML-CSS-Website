@@ -69,7 +69,7 @@ simple-website/
 ├── biodata.html          # Bio-data page with personal details, hobbies, achievements, etc.
 ├── styles.css            # Stylesheet for consistent design across pages
 └── README.md             # Project documentation (this file)
-
+```
 ## Usage
 
 The website has three main pages:
